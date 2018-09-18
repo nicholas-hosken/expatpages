@@ -1768,17 +1768,17 @@ fieldset[disabled] .btn-template-primary.active {
   background: #fff;
 }
 .bar.background-image-fixed-1 {
-  background: url('../img/fixed-background-1.jpg') center top no-repeat;
+  background: url('../img/campaigns/charlamex/fixed-background-charlamex.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/fixed-background-2.jpg') center top no-repeat;
+  background: url('../img/campaigns/tierra-de-animales/fixed-background-tierra-de-animales.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .bar.background-image-fixed-3 {
-  background: url('../img/fixed-background-3.jpg') center top no-repeat;
+  background: url('../img/campaigns/cthulhu-divers/fixed-background-cthlulhu-divers-01.jpg') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -3580,7 +3580,7 @@ a.deco {
 }
 
 .panel-primary > .panel-heading:hover {
-  background-color: #61ad7d ;
+  background-color: #3891bb;
 }
 
 .col-centered {

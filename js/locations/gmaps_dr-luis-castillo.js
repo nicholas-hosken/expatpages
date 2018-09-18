@@ -27,7 +27,7 @@ function map() {
 	styles: styles
     });
 
-    var image = 'img/marker.png';
+    var image = 'img/icons/marker.png';
 
     map.addMarker({
 	lat: 21.143748,
